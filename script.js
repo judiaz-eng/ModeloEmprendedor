@@ -6,7 +6,7 @@ import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
 // RUTA DE TU MODELO 3D (.glb o .gltf)
 // Modifica esta línea para cambiar el archivo
 // ==========================================
-const RUTA_MODELO = 'modelos/Cube.glb';
+const RUTA_MODELO = 'modelos/Coctelcito.glb';
 
 function inicializarVisor(containerId, modelPath) {
   const container = document.getElementById(containerId);
